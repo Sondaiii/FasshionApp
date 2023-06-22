@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754108309610",
+    "project_id": "thietkegoiythoitrang",
+    "storage_bucket": "thietkegoiythoitrang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754108309610:android:0dffeb78a7720d030a6a13",
+        "android_client_info": {
+          "package_name": "com.thietkethoitrang.thietkethoitrang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754108309610-d5urtjkjitlmurdvadg4p3hl23oiaspi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwgPhAT_cMQOsVGLUbwDqhvOKde9HAlvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754108309610-d5urtjkjitlmurdvadg4p3hl23oiaspi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
